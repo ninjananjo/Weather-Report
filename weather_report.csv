@@ -1,5 +1,9 @@
 ,location,date,Hours Rain,Max Temp
-0,Edinburgh,2020-01-02,16,11
-1,Edinburgh,2020-01-03,0,6
-2,London,2020-01-02,0,10
-3,London,2020-01-03,6,10
+0,Belfast,2020-01-01,0,6
+1,Belfast,2020-01-02,4,11
+2,Glasgow,2020-01-01,0,6
+3,Glasgow,2020-01-02,4,9
+4,Leeming,2020-01-01,0,6
+5,Leeming,2020-01-02,0,8
+6,London,2020-01-01,0,7
+7,London,2020-01-02,0,10
