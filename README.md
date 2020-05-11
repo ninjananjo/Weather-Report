@@ -11,7 +11,7 @@ project = Project(project_id='', project_access_token='')
 pc = project.project_context
 ```
 
-Set up an account on https://weatherstack.com/ and add your key
+Set up an account on [Weatherstack](https://weatherstack.com/) and add your key
 
 ```python
 key = '' # Weatherstack key
